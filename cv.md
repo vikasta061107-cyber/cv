@@ -10,7 +10,7 @@
 - **Age:** 18
 - **Study:** Vitebsk State University named after P.M. Masherov
 - **Speciality:** Information Resource Management
-- **Hobby:** Dance
+- Люблю путешествовать, занимаюсь танцами и учусь на 1 курсе :)
 ### Code Example:
 ```javascript
 function sum(a, b) {
