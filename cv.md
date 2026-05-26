@@ -1,13 +1,13 @@
 ![My photo](photo1.jpg)
 ## Contact Information:
-- **Phone:** +375 29 361 53 56
+- **Phone:** +375 29 XXX XX XX
 - **Email:** vikasta061107@gmail.com
 - **Telegram:** @avawiw
 - **GitHub:** [github.com/vikasta061107-cyber](https://github.com/vikasta061107-cyber)
 - ## About Me
 - **Name:** Viktoria
 - **Last Name:** Astashenko
-- **Age:** 18
+- **Age:** 18+
 - **Study:** Vitebsk State University named after P.M. Masherov
 - **Speciality:** Information Resource Management
 - Люблю путешествовать, занимаюсь танцами и учусь на 1 курсе :)
