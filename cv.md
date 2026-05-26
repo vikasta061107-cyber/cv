@@ -1,4 +1,4 @@
-![My photo](https://via.placeholder.com/150))
+![My photo](photo1.jpg)
 ## Contact Information:
 - **Phone:** +375 29 361 53 56
 - **Email:** vikasta061107@gmail.com
